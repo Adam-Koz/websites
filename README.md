@@ -1,5 +1,5 @@
 # Websites
-Here are my websites links
+Here are links to my websites.
 
 This is a custom created site for a cattery.
 http://woodyland.ct8.pl/
